@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\alexc\source\repos\2.L.las_partituras_de_orquesta\2.L.las_partituras_de_orquesta\main.cpp(35,34): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\alexc\source\repos\2.L.las_partituras_de_orquesta\2.L.las_partituras_de_orquesta\main.cpp(37,16): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\alexc\source\repos\2.L.las_partituras_de_orquesta\2.L.las_partituras_de_orquesta\main.cpp(38,16): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+  2.L.las_partituras_de_orquesta.vcxproj -> C:\Users\alexc\source\repos\2.L.las_partituras_de_orquesta\x64\Debug\2.L.las_partituras_de_orquesta.exe

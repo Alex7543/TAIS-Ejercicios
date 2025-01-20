@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexc\\Desktop\\github_proyects\\TAIS-Ejercicios\\2.5.Ordenando_a_los_pacientes_en_urgencias\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16512548-6884-42B9-BDB1-BE9100A1C63A}|2.5.Ordenando_a_los_pacientes_en_urgencias\\2.5.Ordenando_a_los_pacientes_en_urgencias.vcxproj|C:\\Users\\alexc\\Desktop\\github_proyects\\TAIS-Ejercicios\\2.5.Ordenando_a_los_pacientes_en_urgencias\\2.5.Ordenando_a_los_pacientes_en_urgencias\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16512548-6884-42B9-BDB1-BE9100A1C63A}|2.5.Ordenando_a_los_pacientes_en_urgencias\\2.5.Ordenando_a_los_pacientes_en_urgencias.vcxproj|solutionrelative:2.5.Ordenando_a_los_pacientes_en_urgencias\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16512548-6884-42B9-BDB1-BE9100A1C63A}|2.5.Ordenando_a_los_pacientes_en_urgencias\\2.5.Ordenando_a_los_pacientes_en_urgencias.vcxproj|C:\\Users\\alexc\\Desktop\\github_proyects\\TAIS-Ejercicios\\2.5.Ordenando_a_los_pacientes_en_urgencias\\2.5.Ordenando_a_los_pacientes_en_urgencias\\datos.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{16512548-6884-42B9-BDB1-BE9100A1C63A}|2.5.Ordenando_a_los_pacientes_en_urgencias\\2.5.Ordenando_a_los_pacientes_en_urgencias.vcxproj|solutionrelative:2.5.Ordenando_a_los_pacientes_en_urgencias\\datos.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "datos.txt",
+              "DocumentMoniker": "C:\\Users\\alexc\\Desktop\\github_proyects\\TAIS-Ejercicios\\2.5.Ordenando_a_los_pacientes_en_urgencias\\2.5.Ordenando_a_los_pacientes_en_urgencias\\datos.txt",
+              "RelativeDocumentMoniker": "2.5.Ordenando_a_los_pacientes_en_urgencias\\datos.txt",
+              "ToolTip": "C:\\Users\\alexc\\Desktop\\github_proyects\\TAIS-Ejercicios\\2.5.Ordenando_a_los_pacientes_en_urgencias\\2.5.Ordenando_a_los_pacientes_en_urgencias\\datos.txt",
+              "RelativeToolTip": "2.5.Ordenando_a_los_pacientes_en_urgencias\\datos.txt",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-30T16:54:11.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\alexc\\Desktop\\github_proyects\\TAIS-Ejercicios\\2.5.Ordenando_a_los_pacientes_en_urgencias\\2.5.Ordenando_a_los_pacientes_en_urgencias\\main.cpp",
+              "RelativeDocumentMoniker": "2.5.Ordenando_a_los_pacientes_en_urgencias\\main.cpp",
+              "ToolTip": "C:\\Users\\alexc\\Desktop\\github_proyects\\TAIS-Ejercicios\\2.5.Ordenando_a_los_pacientes_en_urgencias\\2.5.Ordenando_a_los_pacientes_en_urgencias\\main.cpp",
+              "RelativeToolTip": "2.5.Ordenando_a_los_pacientes_en_urgencias\\main.cpp",
+              "ViewState": "AgIAACkAAAAAAAAAAAAcwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-25T08:19:50.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

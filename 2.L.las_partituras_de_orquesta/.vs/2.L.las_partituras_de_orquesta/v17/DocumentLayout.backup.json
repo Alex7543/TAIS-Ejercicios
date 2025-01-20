@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexc\\source\\repos\\2.L.las_partituras_de_orquesta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{866185EF-5810-4868-84CB-58C235A5C70F}|2.L.las_partituras_de_orquesta\\2.L.las_partituras_de_orquesta.vcxproj|C:\\Users\\alexc\\source\\repos\\2.L.las_partituras_de_orquesta\\2.L.las_partituras_de_orquesta\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{866185EF-5810-4868-84CB-58C235A5C70F}|2.L.las_partituras_de_orquesta\\2.L.las_partituras_de_orquesta.vcxproj|solutionrelative:2.L.las_partituras_de_orquesta\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866185EF-5810-4868-84CB-58C235A5C70F}|2.L.las_partituras_de_orquesta\\2.L.las_partituras_de_orquesta.vcxproj|C:\\Users\\alexc\\source\\repos\\2.L.las_partituras_de_orquesta\\2.L.las_partituras_de_orquesta\\datos.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{866185EF-5810-4868-84CB-58C235A5C70F}|2.L.las_partituras_de_orquesta\\2.L.las_partituras_de_orquesta.vcxproj|solutionrelative:2.L.las_partituras_de_orquesta\\datos.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "datos.txt",
+              "DocumentMoniker": "C:\\Users\\alexc\\source\\repos\\2.L.las_partituras_de_orquesta\\2.L.las_partituras_de_orquesta\\datos.txt",
+              "RelativeDocumentMoniker": "2.L.las_partituras_de_orquesta\\datos.txt",
+              "ToolTip": "C:\\Users\\alexc\\source\\repos\\2.L.las_partituras_de_orquesta\\2.L.las_partituras_de_orquesta\\datos.txt",
+              "RelativeToolTip": "2.L.las_partituras_de_orquesta\\datos.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-25T08:13:52.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\alexc\\source\\repos\\2.L.las_partituras_de_orquesta\\2.L.las_partituras_de_orquesta\\main.cpp",
+              "RelativeDocumentMoniker": "2.L.las_partituras_de_orquesta\\main.cpp",
+              "ToolTip": "C:\\Users\\alexc\\source\\repos\\2.L.las_partituras_de_orquesta\\2.L.las_partituras_de_orquesta\\main.cpp*",
+              "RelativeToolTip": "2.L.las_partituras_de_orquesta\\main.cpp*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-25T08:13:29.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

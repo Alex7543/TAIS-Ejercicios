@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\alexc\Desktop\github_proyects\TAIS-Ejercicios\2.4. La_ley_D'Hondt\main.cpp(40,31): warning C4244: 'argumento': conversión de 'float' a 'const unsigned __int64'; posible pérdida de datos
+  2.4. La_ley_D'Hondt.vcxproj -> C:\Users\alexc\Desktop\github_proyects\TAIS-Ejercicios\2.4. La_ley_D'Hondt\x64\Debug\2.4. La_ley_D'Hondt.exe
