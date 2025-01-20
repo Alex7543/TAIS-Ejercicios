@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\alexc\GameMakerProjects\pixel dungeon\TAIS-Ejercicios\1.1. Es una arbol AVL\bintree.h(178,9): error C2064: el término no se evalúa como una función con 1 argumentos
+  (compilando archivo de origen "main.cpp")
+      C:\Users\alexc\GameMakerProjects\pixel dungeon\TAIS-Ejercicios\1.1. Es una arbol AVL\bintree.h(178,9):
+      el contexto de creación de instancias de la plantilla (el más antiguo primero) es
+          C:\Users\alexc\GameMakerProjects\pixel dungeon\TAIS-Ejercicios\1.1. Es una arbol AVL\main.cpp(78,7):
+          Vea la referencia a la creación de una instancia de la función plantilla "void BinTree<std::string>::preorder<std::string>(U) const" que se está compilando
+          with
+          [
+              U=std::string
+          ]
+              C:\Users\alexc\GameMakerProjects\pixel dungeon\TAIS-Ejercicios\1.1. Es una arbol AVL\main.cpp(78,15):
+              vea la primera referencia a “BinTree<std::string>::preorder” en “arbol_palabras”
+          C:\Users\alexc\GameMakerProjects\pixel dungeon\TAIS-Ejercicios\1.1. Es una arbol AVL\bintree.h(65,9):
+          Vea la referencia a la creación de una instancia de la función plantilla "void BinTree<std::string>::preorder<U>(const std::shared_ptr<BinTree<std::string>::TreeNode> &,U)" que se está compilando
+          with
+          [
+              U=std::string
+          ]
+  
